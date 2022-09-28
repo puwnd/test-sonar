@@ -15,3 +15,12 @@ function func()
 
     die($alma);
 }
+
+class ClassName
+{
+    public function FunctionName()
+    {
+        // FIXME: pls work pls :')
+        throw new ClassName('');
+    }
+}
