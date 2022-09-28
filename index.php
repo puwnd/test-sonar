@@ -20,6 +20,7 @@ class ClassName
 {
     public function FunctionName()
     {
+        // FIXME: pls work pls :')
         throw new ClassName('');
     }
 }
